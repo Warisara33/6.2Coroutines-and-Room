@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ec47d58e-2119-46ab-b1c0-6380e508f905" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
